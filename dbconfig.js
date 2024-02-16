@@ -12,7 +12,7 @@ var dbconfig = {
         host: 'localhost',
         port: '3306',
         user: 'dbuser',
-        password: 'P@ssw0rd@2023',
+        password: 'P@ssw0rd',
         database: 'moviedb'
     }
 };
